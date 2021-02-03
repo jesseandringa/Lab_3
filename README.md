@@ -9,5 +9,3 @@ Timothy Ashour
 Jeremy Schlagel
 
 Nathan Jager
-
-Timothy Ashour
