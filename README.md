@@ -1,4 +1,13 @@
-# Lab_3
 Lab three colab repository
 
-Change added by Timothy Ashour.
+TestForBranching
+
+Jesse Andringa!!
+
+Timothy Ashour
+
+Jeremy Schlagel
+
+Nathan Jager
+
+Timothy Ashour
