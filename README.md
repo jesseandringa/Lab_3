@@ -2,3 +2,4 @@
 Lab three colab repository
 
 Timothy Ashour
+Nathan JagerS
